@@ -5,7 +5,10 @@ Library Asset Management System
 https://documenter.getpostman.com/view/8582897/SzzoavUz
 
 # Technologies Used
-Node.js/ Express
+Node.js/Express
+
 MongoDB
+
 Heroku for Hosting
+
 Postman for Documentation
