@@ -12,5 +12,9 @@ router.use(user);
 const admin = require('./admin')
 router.use(admin);
 
+//Book Route
+const book = require('./book');
+router.use(book);
+
 
 module.exports = router;
