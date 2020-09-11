@@ -88,7 +88,7 @@ book.post(
 /**
  * @method - GET
  * @param - /view
- * @description - Add Book to Shelf
+ * @description - View Books in Shelf
  */
 
  // View Book
